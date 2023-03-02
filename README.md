@@ -2,4 +2,4 @@
 
 Coursework for ML for Imaging 2022-2023 
 
-<iframe width="100%" height="100%" src="MLI_CW_Report.pdf">
+The report can be found [here](MLI_CW_Report.pdf)
